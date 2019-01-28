@@ -1,4 +1,4 @@
-<#import "parts/common.ftl" as c>
+<#import "parts/common.ftl" as c><#-- импортирует шаблон и обозначает его как с -->
 <#import "parts/login.ftl" as l>
 <@c.page>
 <#--<div class = "form">-->

@@ -1,5 +1,5 @@
 <#include "secutiry.ftl">
-<#import "login.ftl" as l>
+<#import "login.ftl" as l><#-- импортирует шаблон и обозначает его как l -->
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <a class="navbar-brand" href="/">Sweater</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
